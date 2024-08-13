@@ -48,15 +48,17 @@ Contributions are welcome! To contribute:
 
 2. install dependencies:
 
-   ```npm install
+   ```
+   npm install
 
    ```
 
 3. Start the application:
 
-```npm run dev
+    ```
+    npm run dev
 
-```
+    ```
 
 # screenshoot
 
