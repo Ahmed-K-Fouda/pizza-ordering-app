@@ -66,4 +66,4 @@ Contributions are welcome! To contribute:
 
 # Live demo
 
-<!-- https://pizza-ordering-app.netlify.app/ -->
+https://order-pizza-app.netlify.app
